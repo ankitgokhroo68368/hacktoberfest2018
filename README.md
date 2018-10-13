@@ -107,10 +107,12 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
-| [Kavita](https://github.com/Kavita309)| III | CSE | [@Kavita309](https://hacktoberfest.digitalocean.com/stats/Kavita309) |
+| [Kavita](https://github.com/Kavita309)| III | CSE | [@Kavita309](https://hacktoberfest.digitalocean.com/stats/Kavita309) | [Ankit Gokhroo](https://github.com/ankitgokhroo68368) | II | CSE | [@ankitgokhroo68368](https://hacktoberfest.digitalocean.com/stats/ankitgokhroo68368)|
+|
 | [Mansi Negi](https://github.com/MansiNegi27) | II | CSE | [@MansiNegi27](https://hacktoberfest.digitalocean.com/stats/MansiNegi27) |
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 | [Aditya Kaushik](https://github.com/aditya98ak) | III | CSE | [@aditya98ak](https://hacktoberfest.digitalocean.com/stats/aditya98ak)|
+
 
 
